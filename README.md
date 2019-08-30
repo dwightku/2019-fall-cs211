@@ -8,7 +8,7 @@ Check out the following links:
 3. [Code Academy](https://www.codecademy.com/learn/learn-c-plus-plus)
 
 ## About Me
-* I'm a computer science student at HSU
+* I'm a computer science student at HSU and it is pretty cool
 
 ## Tips 
 * Change color in VSC -> CTRL+K, CTRL+T
