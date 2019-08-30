@@ -7,8 +7,9 @@ Check out the following links:
 2. [Tutorials Point](https://www.tutorialspoint.com/cplusplus/index.htm)
 3. [Code Academy](https://www.codecademy.com/learn/learn-c-plus-plus)
 
-## I'm a computer science student at HSU
+## About Me
+* I'm a computer science student at HSU
 
-##Tips 
+## Tips 
 * Change color in VSC -> CTRL+K, CTRL+T
 * Live preview of .MD files in VSC -> CTRL+SHIFT+V
