@@ -1,2 +1,2 @@
 # Design Diary
-Use this space to talk about your process.  For inspiration, see [my prompts](../../../docs/sample_reflection.md) 
+For this milestone I struggled with both of the goals.  I was unable to get a file to read from the command line and did not really address the scrolling or word wrap.  I looked in to both and saw some good examples but was unable to implement them in my project so far.  I did find a way to add more windows and make the menu look cleaner over all.  I hope to look at some more examples to find a way to make the text files readable and editable.  Also I messed up something in my github and think I figured it out.
